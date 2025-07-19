@@ -1,0 +1,33 @@
+Exercícios:
+
+1. Escreva um algoritmo para fazer café.(Descrição narrativa)
+
+	Pegue a chaleira, abra a torneira, coloque a chaleira ABERTA embaixo da torneira (também aberta).
+	Leve a chaleira em uma das bocas do fogão, acenda-o, espere 10 min para a água esquentar.
+	Enquanto AGUA ESTIVER FRIA, faça:
+		Pegue o filtro para o coador, coloque este no coador.
+		Pegue a garrafa térmica, coloque o filtro com o coador em cima da garrafa
+	Após, pegue a  chaleira e acima do coador, despeje a água.
+	Espere o café coar, feche a garrafa.
+	CAFÉ PRONTO
+
+
+2. Escreva um algoritmo para atravessar a rua. (Descrição narrativa)
+
+	Observe ambos os sentidos da rua.
+	se VEÍCULOS EM MOVIMENTO ESTIVEREM NA RUA, então:
+		NÃO ATRAVESSE!
+	senao:
+		ATRAVESSE!
+
+
+3. Escreva um algoritmo para somar dois números e mostrar o resultado. (Fluxograma e Pseudocódigo)
+
+	var valor1, valor2, soma: real;
+	escreva ("Informe o 1° valor: ");
+	leia (valor1);
+	escreva ("Informe o 2° valor: ");
+	leia (valor2);
+	soma = valor1 + valor2;
+	escreva (soma);
+	fim algoritmo
