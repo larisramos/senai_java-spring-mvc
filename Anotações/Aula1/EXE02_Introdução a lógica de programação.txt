@@ -7,6 +7,7 @@ Exercícios:
 	Enquanto AGUA ESTIVER FRIA, faça:
 		Pegue o filtro para o coador, coloque este no coador.
 		Pegue a garrafa térmica, coloque o filtro com o coador em cima da garrafa
+		Pegue o pote de café no armário, pegue uma colher, coloque 5 colheres de pó de café dentro do filtro.
 	Após, pegue a  chaleira e acima do coador, despeje a água.
 	Espere o café coar, feche a garrafa.
 	CAFÉ PRONTO
